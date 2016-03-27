@@ -1,0 +1,6 @@
+﻿  multithresh.cpp
+c:\users\$hravan\documents\visual studio 2015\projects\multithresh\multithresh\multithresh.cpp(91): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\$hravan\documents\visual studio 2015\projects\multithresh\multithresh\multithresh.cpp(100): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\$hravan\documents\visual studio 2015\projects\multithresh\multithresh\multithresh.cpp(109): warning C4804: '<': unsafe use of type 'bool' in operation
+  multithresh.vcxproj -> c:\users\$hravan\documents\visual studio 2015\Projects\multithresh\x64\Debug\multithresh.exe
+  multithresh.vcxproj -> c:\users\$hravan\documents\visual studio 2015\Projects\multithresh\x64\Debug\multithresh.pdb (Partial PDB)
